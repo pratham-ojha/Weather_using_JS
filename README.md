@@ -1,2 +1,2 @@
-# Weather_using_JS
-Weather app using api call to present weather information
+# Weather-using-JS
+Weather WebApp made using JS by using API calls.
